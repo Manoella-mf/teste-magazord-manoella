@@ -14,8 +14,8 @@ Este projeto é um sistema de cadastro (CRUD) desenvolvido para o processo selet
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone [[https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd seu-repositorio](https://github.com/Manoella-mf/teste-magazord-manoella/blob/main/teste-magazord.zip)
+    git clone [https://github.com/Manoella-mf/teste-magazord-manoella.git](https://github.com/Manoella-mf/teste-magazord-manoella.git)
+   cd teste-magazord-manoella
 Instalar Dependências:
 Execute o Composer para baixar as pastas do Doctrine e outras bibliotecas:
 
